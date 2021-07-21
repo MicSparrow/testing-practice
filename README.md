@@ -1,0 +1,1 @@
+Small Odin practice excercise - making JS tests.
